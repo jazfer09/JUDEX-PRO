@@ -1,0 +1,6 @@
+{
+  "name": "JudgePro - Event Tabulation & Judging System",
+  "description": "Multi-role event tabulation and judging platform with category filtering (Elementary, JHS, SHS, College), custom weighted criteria percentages, dynamic judge score sheets, live leaderboards, and official tally reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
